@@ -1,4 +1,6 @@
-### Hi there 👋
+### Software Engineering Junior Student
+
+
 
 <!--
 **dongu4749/dongu4749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
