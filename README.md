@@ -1,12 +1,12 @@
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 </div>
 
 ### Software Engineering Junior Student
 - Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
-- I organize a group of developers who write blog posts - 글쓰는 개발자 모임, [글또](https://bit.ly/geultto)
+- I organize a group of developers who write blog posts -
 
 ### Interest
 - MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
