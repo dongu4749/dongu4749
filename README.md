@@ -11,6 +11,7 @@
 
 <div align=center>
 <img src="https://img.shields.io/badge/C-1E2B67?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/java-1E2B67?style=for-the-badge&logo=C%2B%2B&logoColor=#007396"/>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongu4749&theme=radical&layout=compact&)](https://github.com/dongu4749/github-readme-stats)  
   
