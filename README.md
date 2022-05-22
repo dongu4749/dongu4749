@@ -22,6 +22,8 @@
   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dongu1224@naver.com)](mailto:dongu1224@naver.com)
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongu4749&theme=radical&layout=compact&)](https://github.com/dongu4749/github-readme-stats)  
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dongu4749)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
