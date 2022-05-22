@@ -1,7 +1,7 @@
 
 ### Software Engineering Junior Student
 - Software Engineering Junior 2022-spring semester
-- I learn Operating System, Database, SQL, Android Programming, Microprocessor
+- I'm learning Operating System, Database, SQL, Android Programming, Microprocessor
 
 
 
