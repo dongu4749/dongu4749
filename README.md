@@ -17,8 +17,11 @@
 
 <div align=center>
 <img src="https://img.shields.io/badge/C-1E2B67?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff"/>
+  
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/data.scientist/) 
+  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dongu1224@naver.com)](mailto:dongu1224@naver.com)
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dongu4749)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
