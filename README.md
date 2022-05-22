@@ -3,6 +3,11 @@
 - Software Engineering Junior 2022-spring semester
 - I learn Operating System, Database, SQL, Android Programming, Microprocessor
 
+<img src="https://img.shields.io/badge/C-1E2B67?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 ### Interest
 - MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
 - Google Cloud Platform(Especially, BigQuery)
@@ -10,10 +15,7 @@
 - Leadership, Mentoring, Writing, Presentation
 
 <div align=center>
-<img src="https://img.shields.io/badge/C-1E2B67?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 
 
     
