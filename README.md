@@ -1,9 +1,9 @@
 
 ### Software Engineering Junior Student
-- Software Engineering Junior 2022-spring semester
-- I'm learning Operating System, Database, SQL, Android Programming, Microprocessor
-- I am developing an Comon Applicaton(Coding Education APP)
-
+- Software Engineering Junior 2022-summer
+- I have completed development an Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lader
+- I am the team leader of 2022 PY4E
+- I am currently participating in ECC-Project
 
 
 ### Interest
