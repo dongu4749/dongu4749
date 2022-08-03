@@ -3,12 +3,12 @@
 - Software Engineering Junior 2022-summer
 - I have completed development an Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lader
 - I am the team leader of 2022 PY4E
-- I am currently participating in ECC-Project
+- I am currently participating in ECC-Project(To be provided to Jeonbuk Blind School)
 
 
 ### Interest
 - AI Technology(Deep Learning)
-- Mysql(use with Jupyter Notebook)
+- DataBase
 - Search Engine Algorithm
 - Leadership, Mentoring, Writing, Presentation
  
