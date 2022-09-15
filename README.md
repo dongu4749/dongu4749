@@ -4,7 +4,7 @@
 - I have completed development an Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lader Game
 - I am an Undergraduate research student at the AI Security Lab(Malicious iot Traffic Analysis)
 - I am currently participating in ECC-Project(To be provided to Jeonbuk Blind School)
-
+- I am currently participating as a leader of YangDo Platfrom-Project(Web&App Service)
 
 ### Interest
 - AI Technology(Deep Learning)
