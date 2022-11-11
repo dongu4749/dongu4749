@@ -6,7 +6,7 @@
 - I am currently participating in ECC-Project(To be provided to Jeonbuk Blind School)
 - I am currently participating as a leader of YangDo Platfrom-Project(Web&App Service)
 - I am currently participating as a leader of Mini-Backjoon-Project(Web Service)
-- 
+
 ### Interest
 - AI Technology(Deep Learning)
 - DataBase
