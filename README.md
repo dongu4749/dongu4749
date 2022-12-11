@@ -1,11 +1,10 @@
 
 ### Software Engineering Junior Student
-- Software Engineering Junior 2022-Fall
+- Software Engineering Junior 2022-Winter
 - I have completed development an Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lader Game
-- I am an Undergraduate research student at the AI Security Lab(Malicious iot Traffic Analysis, MQTT Attacking, Oauth)
-- I am currently participating in ECC-Project(To be provided to Jeonbuk Blind School)
+- I have completed development an ECC-Project(To be provided to Jeonbuk Blind School), Mini-Backjoon-Project(Web Service)
+- I am an Undergraduate research student at the AI Security Lab(Malicious iot Traffic Analysis, MQTT Attacking, Oauth) by Professor Choi Sun-oh
 - I am currently participating as a leader of YangDo Platfrom-Project(Web&App Service)
-- I am currently participating as a leader of Mini-Backjoon-Project(Web Service)
 
 ### Interest
 - AI Technology(Deep Learning)
