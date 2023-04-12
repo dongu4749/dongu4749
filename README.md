@@ -1,5 +1,5 @@
 
-### Software Engineering Junior Student
+### Software Engineering Senior Student
 - Software Engineering Senior 2023-Spring
 - I have completed development an Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lander Game, MiniBackjoon(Web Service), Yangdo_Platform(Pause)
 - I am an Undergraduate research student at the AI Security Lab(Malicious iot Traffic Analysis, MQTT Attacking, Oauth 2.0) by Professor Choi Sun-oh
