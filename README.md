@@ -1,10 +1,11 @@
 
 ### Software Engineering Senior Student
-- Software Engineering Senior 2023-Spring
+- Software Engineering Senior 2023-Summer
 - I have completed development an Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lander Game, MiniBackjoon(Web Service), Yangdo_Platform(Pause)
-- I am an Undergraduate research student at the AI Security Lab(Malicious iot Traffic Analysis, MQTT Attacking, Oauth 2.0) by Professor Choi Sun-oh
+- I am an Undergraduate research student at the AI Security Lab(Malicious iot Traffic Analysis, MQTT Attacking, DOauth 2.0) by Professor Choi Sun-oh
 - I am currently participating as a leader of ChatMe Project(App Service)
 - I am currently participating as a leader of Wallpad Hacking Project
+- I am currently participating as a team member of Meteorological Power Analysis Model Predicton
 
 ### Interest
 - AI Technology(Deep Learning)
