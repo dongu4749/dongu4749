@@ -2,11 +2,12 @@
 ### Software Engineering Senior Student
 - Currently working at the Korea Copyright Commission.
 - I graduated from the Department of Software Engineering in 2024
-- I completed development an ChatMe Application(Comfort and empathy chatbot app) Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lander Game, MiniBackjoon(Web Service), Wallpad Hacking Project, Meteorological Power Analysis Model Predicton, DOauth 2.0 Server
+- I completed development an ChatMe Application(Comfort and empathy chatbot app) Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lander Game, MiniBackjoon(Web Service), Wallpad Hacking Project, Meteorological Power Analysis Model Predicton, 
+Oauth 2.0 authentication system using blockchain-based ERC-721 tokens
 - I submitted a paper on chatbot service using multi-sentiment classification-based sentiment generation to the Korea Information Technology Society and won a gold medal.
 - I completed a research paper on Oauth 2.0 certification using blockchain-based ERC-721.
-- I am an Undergraduate research student at the AI Security Lab(Malicious iot Traffic Analysis, MQTT Attacking, DOauth 2.0, automotive security) by Professor Choi Sun-oh
-- I've recently been working on a deep learning model to detect obfuscated malicious Powershell script code.
+- I was an Undergraduate research student at the AI Security Lab(Malicious iot Traffic Analysis, MQTT Attacking, DOauth 2.0, automotive security) by Professor Choi Sun-oh
+- I've recently been worked on a deep learning model to detect obfuscated malicious Powershell script code.
 
 ### Interest
 - AI Technology(Deep Learning)
