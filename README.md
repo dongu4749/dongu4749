@@ -1,6 +1,7 @@
 
 ### Software Engineering Senior Student
-- Software Engineering Senior 2023-winter
+- Currently working at the Korea Copyright Commission.
+- I graduated from the Department of Software Engineering in 2024
 - I completed development an ChatMe Application(Comfort and empathy chatbot app) Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lander Game, MiniBackjoon(Web Service), Wallpad Hacking Project, Meteorological Power Analysis Model Predicton, DOauth 2.0 Server
 - I submitted a paper on chatbot service using multi-sentiment classification-based sentiment generation to the Korea Information Technology Society and won a gold medal.
 - I completed a research paper on Oauth 2.0 certification using blockchain-based ERC-721.
