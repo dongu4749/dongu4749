@@ -1,5 +1,5 @@
 
-### Software Engineering Senior Student
+### Software Engineering Graduate Student
 - Currently working at the Korea Copyright Commission.
 - I graduated from the Department of Software Engineering in 2024
 - I completed development an ChatMe Application(Comfort and empathy chatbot app) Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lander Game, MiniBackjoon(Web Service), Wallpad Hacking Project, Meteorological Power Analysis Model Predicton, 
