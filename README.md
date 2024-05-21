@@ -1,6 +1,6 @@
 
 ### Software Engineering Graduate Student
-- I work for the Korean Copyright Commission.
+- I work for the Korea Copyright Commission(Information Technology Job).
 - I plan to move to a financial public company in 2025
 - I graduated from the Department of Software Engineering in 2024
 - I completed development an ChatMe Application(Comfort and empathy chatbot app) Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lander Game, MiniBackjoon(Web Programming Service), Wallpad Hacking Project, Meteorological Power Analysis Model Predicton, 
