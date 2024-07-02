@@ -9,7 +9,7 @@ Oauth 2.0 authentication system using blockchain-based ERC-721 tokens
 - I completed a research paper on Oauth 2.0 certification using blockchain-based ERC-721 and I registered in KCI
 - I was an Undergraduate research student at the AI Security Lab(Malicious iot Traffic Analysis, MQTT Attacking, DOauth 2.0, automotive security) by Professor Choi Sun-oh
 - I worked on a deep learning model to detect obfuscated malicious Powershell script code.
-- I got an information processor and a data analysis associate
+- I acquire an Engineer Information Processing and ADSP, SQLD license
 
 ### Interest
 - AI Technology(Deep Learning & LLM)
