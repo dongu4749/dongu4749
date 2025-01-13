@@ -1,7 +1,8 @@
 
 ### Software Engineering Graduate Student
 - I work for the Korea Copyright Commission(Information Technology Job).
-- I plan to move to a financial public company in 2025
+- I manage the integrated internal administrative system (Groupware, All Shop, Durei) and respond to the evaluation of public data and data-driven administration.
+- I plan to move to a financial public company in 2026~2027
 - I graduated from the Department of Software Engineering in 2024
 - I completed development an ChatMe Application(Comfort and empathy chatbot app) Comon Applicaton(Coding Education APP), Tap-Tap Game, Moon_lander Game, MiniBackjoon(Web Programming Service), Wallpad Hacking Project, Meteorological Power Analysis Model Predicton, 
 Oauth 2.0 authentication system using blockchain-based ERC-721 tokens
